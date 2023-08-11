@@ -2,7 +2,7 @@
 
 ## 1. Export financial documents
 - Choose your stock, start year, and end year.
-- In the Output folder, you have 'Balance Sheet', 'Income Statement', and 'Cash Flow' in .xlsx format and each file will have 2 versions, English and Vietnamese.
+- In the Output folder, you have 'Balance Sheet', 'Income Statement', and 'Cash Flow' in .xlsx format and each file will have 2 versions, English and Vietnamese by Year and Quarter.
 - In the Output/Img folder, you have charts of all the financial indicators in all 3 .xlsx files.
 ## 2. Draw some financial ratio charts
 - Choose your stock, start year, and end year.
